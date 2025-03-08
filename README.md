@@ -29,7 +29,7 @@ Then input:
 
 ## Future Enhancements
 - Add support for **LinkedIn & Glassdoor**
--Convert to **Flask API** for automation
+- Convert to **Flask API** for automation
 - Store jobs in a **database**
 
 ## License
